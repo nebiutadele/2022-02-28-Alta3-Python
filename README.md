@@ -1,3 +1,4 @@
+A sentence about wanting to learn how to version control projects with git
 # 2022-02-28-Alta3-Python
 
 One Paragraph of your project description goes here. Describe what you're trying to do.
