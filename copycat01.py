@@ -14,8 +14,10 @@ def copycat():
             "5g_research/sdn_network.txt.copy")
     
     #remove previous version of folder
-    os.system("rm -rf /home/student/mycode/5g_researcg_backup/")
+    os.system("rm -rf /home/student/mycode/5g_research_backup/")
 
     #copy a directory
     shutil.copytree("5g_research/", "5g_research_backup/")
+if __name__ == "__main__":
+    copycat()
 
